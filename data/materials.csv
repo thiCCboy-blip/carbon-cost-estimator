@@ -1,0 +1,20 @@
+material_id,material_name,category,unit,unit_cost_aed,carbon_factor_kgco2e_per_unit,carbon_factor_source,gwp_note,low_carbon_alternative_id,alt_material_name,alt_unit_cost_aed,alt_carbon_factor_kgco2e_per_unit,alt_carbon_factor_source,cost_premium_pct
+C01,Ready-Mix Concrete C40/50 (OPC),Concrete,m3,420,330,ICE Database v3 / EN 15804 A1-A3,Ordinary Portland Cement binder,GC01,Geopolymer Concrete C40 (GGBS-FA binder),495,145,EPD GCC / ICE Database v3,17.9
+C02,Ready-Mix Concrete C30/37 (OPC),Concrete,m3,385,300,ICE Database v3 / EN 15804 A1-A3,Ordinary Portland Cement binder,GC02,LC3 / 50% GGBS Blended Concrete C30,425,155,EPD Heidelberg / ICE Database v3,10.4
+C03,Ready-Mix Concrete C50/60 (OPC),Concrete,m3,470,355,ICE Database v3 / EN 15804 A1-A3,High cement content mix,GC03,Geopolymer Concrete C50 (Slag-FlyAsh),560,170,EPD GCC / ICE Database v3,19.1
+S01,Structural Steel Sections (S355) - Supply & Fix,Steel,tonne,5400,2300,Worldsteel LCI / ICE Database v3,BF-BOF route,RS01,Recycled Steel Sections (EAF scrap route),5650,680,Worldsteel LCI EAF / ICE Database v3,4.6
+S02,Reinforcement Bar Fe500 (Supply & Fix),Steel,tonne,4800,2050,Worldsteel LCI / ICE Database v3,BF-BOF route,RS02,Recycled Rebar (EAF scrap route),4950,620,Worldsteel LCI EAF / ICE Database v3,3.1
+S03,Structural Steel Decking,Steel,tonne,5100,2200,Worldsteel LCI / ICE Database v3,BF-BOF route,RS03,Recycled Steel Decking (EAF),5300,650,Worldsteel LCI EAF,3.8
+A01,Aluminium Curtain Wall Panels (primary),Aluminium,m2,1450,220,IAI LCI / facade EPD (A1-A3),~25 kg primary Al per m2 + seals/misc,RA01,Recycled Aluminium Curtain Wall Panels (75% post-consumer),1380,68,IAI LCI recycled / facade EPD,-4.8
+A02,Aluminium Composite Cladding Panels,Aluminium,m2,780,90,IAI LCI / manufacturer EPD,Primary Al skins + PE core,RA02,Recycled-content ACP Panels,745,28,IAI LCI recycled,-4.5
+G01,Float Glass (6mm) - Curtain Wall,Glass,m2,320,22,Flat Glass LCI / ICE Database v3 (~15 kg/m2 x 1.45),Float furnace energy,G02,Low-Iron Recycled-content Glass (6mm),345,15,Flat Glass LCI recycled cullet,7.8
+G02,Low-Iron Recycled-content Glass (6mm),Glass,m2,345,15,Flat Glass LCI recycled cullet,40% cullet replacement,,
+I01,Mineral Wool Insulation (100mm),Insulation,m2,95,14,EPD ROCKWOOL / EN 15804 (~5 kg/m2),Mineral fibre,I02,Recycled Cotton-Fibre Insulation (100mm),110,5,EPD recycled fibre insulation,15.8
+M01,Gypsum Plasterboard (12.5mm),Finishes,m2,48,2.8,EPD British Gypsum / EN 15804 (~9 kg/m2),Calcined gypsum,M01R,Recycled-content Gypsum Board (12.5mm),50,1.9,EPD recycled gypsum,4.2
+M02,Ceramic Floor Tiles,Finishes,m2,85,12,EPD tile manufacturer / EN 15804 (incl. bedding),Fired clay kiln,M02R,Recycled-content Ceramic Tiles,88,8.5,EPD recycled tile,3.5
+M03,Aluminium Roof Insulation Sheet,Insulation,m2,110,65,EPD sandwich panel (Al skin + core),Aluminium facing + core,I02,Recycled Cotton-Fibre Insulation (100mm),110,5,EPD recycled fibre insulation,-9.1
+W01,Copper Cabling (LV Power),MEP,tonne,38000,4200,IEC LCI / ICE Database v3,Primary smelting,WC01,Recycled Copper Cabling,35500,1400,IEC LCI recycled,-6.6
+P01,PVC Piping (uPVC pressure pipes),MEP,m,42,5.5,EPD / EN 15804 (~2.5 kg/m),VCM polymerisation,P02,Recycled-content HDPE Piping,45,4,EPD recycled polymer,7.1
+D01,Diesel (site plant & generators),Fuel,liter,3.10,2.68,DEFRA / IPCC GWP100,Scope 1 site emissions,D02,Battery-electric site plant (diesel-L equivalent),2.20,1.10,UAE DEWA grid factor 0.408 kgCO2/kWh,-29.0
+CON01,Ready-Mix Concrete C25/30 (OPC),Concrete,m3,355,270,ICE Database v3 / EN 15804 A1-A3,Ordinary Portland Cement binder,GC04,LC3 Blended Concrete C25,390,140,EPD Heidelberg / ICE Database v3,9.9
+STEEL01,Steel Rebar Mesh (B500A),Steel,tonne,4950,2050,Worldsteel LCI / ICE Database v3,BF-BOF route,RS02,Recycled Rebar (EAF scrap route),4950,620,Worldsteel LCI EAF,0.0

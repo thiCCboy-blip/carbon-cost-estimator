@@ -1,0 +1,21 @@
+item_no,description,category,material_id,quantity,unit,element
+A.1,Excavation & Earthworks - Bulk excavation,Substructure,,4200,m3,Substructure
+A.2,C40/50 RC Blinding & Piling Cap Concrete,Substructure,C01,850,m3,Substructure
+A.3,C30/37 RC Foundation Concrete,Substructure,C02,1200,m3,Substructure
+A.4,C50/60 RC Core & Shear Wall Concrete,Superstructure,C03,980,m3,Core
+A.5,C40/50 RC Flat Slab Concrete (Typical Floors),Superstructure,C01,2400,m3,Floors
+A.6,C30/37 RC Grade Beams & Columns,Superstructure,C02,620,m3,Frame
+B.1,Structural Steel Sections - Transfer & Roof Trusses,Superstructure,S01,185,tonne,Frame
+B.2,Reinforcement Bar Fe500 - Supply & Fix,Superstructure,S02,1450,tonne,Frame
+B.3,Structural Steel Decking - Composite Slabs,Superstructure,S03,320,tonne,Floors
+B.4,Steel Rebar Mesh - Slab Reinforcement,Superstructure,STEEL01,210,tonne,Floors
+C.1,Aluminium Curtain Wall Panels - Facade (Unitised),Envelope,A01,3850,m2,Envelope
+C.2,Aluminium Composite Cladding Panels - Podium,Envelope,A02,1250,m2,Envelope
+C.3,Float Glass (6mm) - Curtain Wall Glazing,Envelope,G01,3850,m2,Envelope
+C.4,Mineral Wool Insulation (100mm) - Facade & Roof,Envelope,I01,2900,m2,Envelope
+D.1,Gypsum Plasterboard (12.5mm) - Partitions & Linings,Finishes,M01,8600,m2,Finishes
+D.2,Ceramic Floor Tiles - Lobby & Wet Areas,Finishes,M02,1450,m2,Finishes
+D.3,Aluminium Roof Insulation Sheet,Envelope,M03,2100,m2,Envelope
+E.1,Copper Cabling (LV Power Distribution),MEP,W01,48,tonne,MEP
+E.2,PVC Piping (uPVC pressure pipes - drainage),MEP,P01,4200,m,MEP
+E.3,Diesel (Site Plant & Generators - Est. 18mo build),Site,D01,310000,liter,Site
