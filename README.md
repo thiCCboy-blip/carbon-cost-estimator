@@ -24,12 +24,23 @@ Built around a realistic Dubai commercial-building BOQ (≈10,000 m² GFA, AED 2
 
 ## Quick start
 
+**Windows:** double-click `run.bat` (creates the venv on first run, then launches).
+
+**Manual:**
+
 ```bash
 cd carbon-cost-estimator
 python -m venv .venv
 .venv\Scripts\activate          # macOS/Linux: source .venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+**PowerShell (no activation needed):**
+
+```powershell
+cd "C:\Users\AMRUTH\Documents\Default Project\carbon-cost-estimator"
+.venv\Scripts\streamlit.exe run app.py
 ```
 
 Run tests (engine + full dashboard render via Streamlit AppTest):
